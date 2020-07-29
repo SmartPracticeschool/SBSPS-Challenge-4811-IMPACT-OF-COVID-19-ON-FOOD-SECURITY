@@ -17,3 +17,4 @@ production and utilization is important. We have created a Machine Learning mode
 More Details about the Project is Present in the Project Report File.
 
 To See the Project Overview visit the url:  https://youtu.be/EyGXOVWqWKI
+DEPLOYED MODEL: https://node-red-dhruba.eu-gb.mybluemix.net/ui/#!/0?socketid=rm38tog9w2BH-A0nAAAB
